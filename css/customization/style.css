@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
+
+body {
+	font-family: "Open Sans", sans-serif;
+	padding-top: 75px;
+}
+
+h1 {
+	margin-bottom: 21px;
+}
+
+.navbar-brand {
+	font-family: "Kaushan Script", sans-serif;
+}
+
+.hover:hover {
+	cursor: pointer;
+}
+
+.btn-social {
+	margin: 0 10px;
+	width: 41px;
+	height: 41px;
+}
+
+.btn-twitter {
+	border: #55ACEE;
+	background-color: #55ACEE;
+}
+
+.btn-twitter:hover {
+	border: #73B4FF;
+	background-color: #73B4FF;
+}
+
+.btn-facebook {
+	border: #3B5998;
+	background-color: #3B5998;
+}
+
+.btn-facebook:hover {
+	border: #4C70BA;
+	background-color: #4C70BA;
+}
+
+.btn-google {
+	border: #D34836;
+	background-color: #D34836;
+}
+
+.btn-google:hover {
+	border: #DC6E60;
+	background-color: #DC6E60;
+}
